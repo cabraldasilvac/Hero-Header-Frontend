@@ -5,6 +5,7 @@ import App from './pages/Main';
 
 import GlobalStyle from './sytles/global';
 
+
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
     <GlobalStyle />
