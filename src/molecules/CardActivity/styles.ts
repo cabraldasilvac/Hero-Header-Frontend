@@ -33,31 +33,27 @@ export const Container = styled.div`
       height: 77px;
       position: absolute;
       border-radius: 50px;
+      
 
       &.circle1 {
         left: 104px;
         top: -20px;
-        background: linear-gradient(
-          0deg, 
-          rgba(255,255,255, 0,3),
-          rgba(255,255,255, 0,3)
-        );
+        background: #ffffff52;
+        
       }
 
       &.circle2 {
-        background: linear-gradient(
-          0deg, 
-          rgba(255,255,255, 0,3),
-          rgba(255,255,255, 0,3)
-        );
+        background:  #ffffff52;
         left: 81px;
         bottom: -50px;
-        transform: rotate(45deg);  
+        transform: rotate(45deg);
       }
 
       &.circle3 {
         border: 1px solid rgba(255,255,255, 0.5);
-        transform: rotate(-2deg);
+        transform: rotate(-72deg);
+        top:-54px;
+        left: 47px;
       }
     }
 `;
