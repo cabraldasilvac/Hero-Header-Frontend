@@ -8,7 +8,10 @@
     4. Styled Components
     5. Surge SH
 
-### Link Preview
 
-### Link Figma
-[Figma] [!https://www.figma.com/file/8beZh1CeewBHoLaJvJ7lHo/Heroes?node-id=22%3A233]
+<hr>
+
+### Link Layout - [Figma](https://www.figma.com/file/8beZh1CeewBHoLaJvJ7lHo/Heroes?node-id=22%3A233)
+<hr>
+
+### Link Preview - [Local da página](https://treinamento-frontend.surge.sh/)
