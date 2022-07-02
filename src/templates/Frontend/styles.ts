@@ -10,9 +10,7 @@ export const Container = styled.div`
 
   main {
     flex: 1;
-    justify-content: center;
     align-items: center;
     display: flex;
-
   }
 `;

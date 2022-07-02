@@ -14,7 +14,6 @@ export const Container = styled.div`
     color: rgba(30, 37, 94, 0.7);
     font-weight: normal;
     padding-right: 150px;
-    margin-top: 25;
-  }
-  
-  `;
+    margin-top: 25px;
+  } 
+`;

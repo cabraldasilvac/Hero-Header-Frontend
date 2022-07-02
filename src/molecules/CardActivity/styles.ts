@@ -2,7 +2,6 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   position: absolute;
-  top: 105px;
   left: 75px;
   background-color: #daaffd;
   color: #fff;
@@ -12,6 +11,10 @@ export const Container = styled.div`
   text-align: left;
   padding: 11px;
   overflow: hidden;
+
+  animation: showOnPageCard 0.5s linear forwards 2s;
+  opacity: 0px;
+  top: 50px;
 
   small {
       font-size: 15px;
@@ -56,4 +59,14 @@ export const Container = styled.div`
         left: 47px;
       }
     }
+    @keyframes showOnPageCard {
+    from {
+      opacity: 0px;
+      top: 0px;
+    }
+    to {
+        opacity: 1px;
+        top: 105px;
+    }
+  }
 `;

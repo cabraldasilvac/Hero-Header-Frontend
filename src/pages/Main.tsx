@@ -14,6 +14,6 @@ function Main() {
     </S.Container>
   </Frontend>
   );
-}
+};
 
 export default Main;

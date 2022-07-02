@@ -6,10 +6,10 @@ import Menu from '../Menu';
 
 const Header =() =>{
   return (
-  <S.Box>
-    <Logo />
-    <Menu />
-    <Button />   
+    <S.Box>
+      <Logo />
+      <Menu />
+      <Button />   
     </S.Box>
   );
 };
