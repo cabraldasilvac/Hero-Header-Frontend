@@ -15,3 +15,7 @@
 <hr>
 
 ### Link Preview - [Local da página](https://treinamento-frontend.surge.sh/)
+<hr>
+### Este projeto foi desenvolvido seguindo instruções no  canal do YouTube.
+
+### Link crédito - [Diego Souza](https://www.youtube.com/c/DiegoSouza23/videos)
