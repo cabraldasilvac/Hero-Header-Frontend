@@ -1,6 +1,10 @@
-# Layout Hero Header
+# Project name: Layout Hero Header
 
-## Technologies used in the project
+### Project description
+
+This project was developed with the purpose of establishing knowledge acquired during study at the Faculty and following tips from the internet.
+
+### 🖥️ Technologies used in the project
 
     1. React
     2. Typescript
@@ -14,8 +18,17 @@
 ### Link Layout - [Figma](https://www.figma.com/file/8beZh1CeewBHoLaJvJ7lHo/Heroes?node-id=22%3A233)
 <hr>
 
-### Link Preview - [Local da página](https://treinamento-frontend.surge.sh/)
+### Link Preview - [Page location](https://hero-header-frontend.vercel.app/)
 <hr>
-### Este projeto foi desenvolvido seguindo instruções no  canal do YouTube.
 
-### Link crédito - [Diego Souza](https://www.youtube.com/c/DiegoSouza23/videos)
+### to clone the project:
+
+`clone` [clone project](https://github.com/cabraldasilvac/Hero-Header-Frontend/)
+
+### Install dependencies -
+
+`yarn install`
+
+#
+
+#### Credit link - [Diego Souza](https://www.youtube.com/c/DiegoSouza23/videos)
